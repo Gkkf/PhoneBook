@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KsiazkaXAMARIN.OptionsPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Imie:" Margin="15, 15, 15, 5"/>
+            <Entry x:Name="eName" Keyboard="Text" TextChanged="eName_TextChanged" Margin="15, 15, 15, 5"/>
+            <Label Text="Nazwisko:" Margin="15, 15, 15, 5"/>
+            <Entry x:Name="eSurname" Keyboard="Text" TextChanged="eSurname_TextChanged" Margin="15, 15, 15, 5"/>
+            <Label Text="Numer telefonu:" Margin="15, 15, 15, 5"/>
+            <Entry x:Name="eNumber" Keyboard="Numeric" MaxLength="9" TextChanged="eNumber_TextChanged" Margin="15, 15, 15, 5"/>
+            <Label Text="Email:" Margin="15, 15, 15, 5"/>
+            <Entry x:Name="eEmail" Keyboard="Email" TextChanged="eEmail_TextChanged" Margin="15, 15, 15, 5"/>
+
+            <Button Text="Akceptuj zmiany" x:Name="OptionsButton" Clicked="OptionsButton_Clicked" WidthRequest="60" HeightRequest="60" Margin="15, 80, 15, 5"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

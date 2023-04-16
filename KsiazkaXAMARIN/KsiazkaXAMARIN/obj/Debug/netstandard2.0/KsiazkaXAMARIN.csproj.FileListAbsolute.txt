@@ -1,0 +1,16 @@
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\obj\Debug\netstandard2.0\KsiazkaXAMARIN.csproj.AssemblyReference.cache
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\obj\Debug\netstandard2.0\KsiazkaXAMARIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\obj\Debug\netstandard2.0\KsiazkaXAMARIN.AssemblyInfoInputs.cache
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\obj\Debug\netstandard2.0\KsiazkaXAMARIN.AssemblyInfo.cs
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\obj\Debug\netstandard2.0\KsiazkaXAMARIN.csproj.CoreCompileInputs.cache
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\obj\Debug\netstandard2.0\KsiazkaXAMARIN.dll
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\obj\Debug\netstandard2.0\refint\KsiazkaXAMARIN.dll
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\obj\Debug\netstandard2.0\KsiazkaXAMARIN.pdb
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\bin\Debug\netstandard2.0\KsiazkaXAMARIN.deps.json
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\bin\Debug\netstandard2.0\KsiazkaXAMARIN.dll
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\bin\Debug\netstandard2.0\KsiazkaXAMARIN.pdb
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\obj\Debug\netstandard2.0\ref\KsiazkaXAMARIN.dll
+C:\Users\gkkf1\Desktop\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\KsiazkaXAMARIN\obj\Debug\netstandard2.0\OptionsPage.xaml.g.cs
